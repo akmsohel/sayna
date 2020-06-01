@@ -1,0 +1,362 @@
+2020-01-19 15:49:19 INFO  Browser:20 - Setting the webdriver path for chromedriver
+2020-01-19 15:49:24 INFO  Browser:22 - Openning chrome Browser
+2020-01-19 15:49:29 INFO  Browser:24 - Maximizing window
+2020-01-19 15:49:33 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 15:49:33 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 15:49:33 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 15:49:33 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 15:49:33 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 15:49:33 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 15:49:33 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 15:49:33 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 15:49:33 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 15:49:33 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 15:49:34 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 15:49:34 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 15:49:34 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 15:49:34 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 15:49:34 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 15:49:35 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 15:49:35 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 15:49:35 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 15:49:35 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 15:49:35 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 15:49:35 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 15:49:35 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 15:49:35 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 15:49:35 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 15:49:35 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 15:49:36 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 15:49:36 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 15:49:36 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 15:49:36 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 15:49:36 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 15:49:36 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 15:49:37 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 15:49:37 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 15:49:37 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 15:49:37 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 15:49:38 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 15:49:39 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 15:49:39 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 15:49:39 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 15:49:39 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 15:49:39 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 15:49:40 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 15:49:40 INFO  Browser:39 - Closing the browser
+2020-01-19 16:35:30 INFO  Browser:20 - Setting the webdriver path for chromedriver
+2020-01-19 16:35:36 INFO  Browser:22 - Openning chrome Browser
+2020-01-19 16:35:40 INFO  Browser:24 - Maximizing window
+2020-01-19 16:35:44 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:35:44 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:35:44 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:35:44 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:35:44 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:35:44 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:35:44 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:35:45 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:35:45 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:35:45 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:35:45 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:35:45 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:35:45 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:35:45 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:35:45 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:35:46 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:35:46 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:35:46 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:35:46 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:35:46 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:35:46 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:35:46 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:35:46 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:35:46 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:35:46 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:35:47 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:35:47 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:35:47 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:35:47 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:35:47 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:35:47 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:35:48 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:35:48 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:35:48 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:35:48 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:35:48 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:35:48 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:35:48 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:35:48 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:35:48 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:35:49 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:35:49 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:35:49 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:35:49 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:35:49 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:35:49 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:35:50 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:35:50 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:35:50 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:35:50 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:35:50 INFO  Browser:39 - Closing the browser
+2020-01-19 16:42:47 INFO  Browser:20 - Setting the webdriver path for chromedriver
+2020-01-19 16:42:53 INFO  Browser:22 - Openning chrome Browser
+2020-01-19 16:42:57 INFO  Browser:24 - Maximizing window
+2020-01-19 16:43:01 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:43:01 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:43:01 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:43:01 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:43:01 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:43:02 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:43:02 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:43:02 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:43:02 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:43:02 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:43:04 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:43:04 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:43:05 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:43:05 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:43:05 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:43:05 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:43:05 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:43:05 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:43:05 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:43:05 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:43:05 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:43:06 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:43:06 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:43:06 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:43:06 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:43:06 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:43:07 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:43:07 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:43:07 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:43:07 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:43:07 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:43:08 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:43:09 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:43:09 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:43:09 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:43:09 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:43:09 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:43:10 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:43:10 INFO  Browser:39 - Closing the browser
+2020-01-19 16:45:44 INFO  Browser:20 - Setting the webdriver path for chromedriver
+2020-01-19 16:45:50 INFO  Browser:22 - Openning chrome Browser
+2020-01-19 16:45:54 INFO  Browser:24 - Maximizing window
+2020-01-19 16:46:01 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:46:01 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:46:01 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:46:01 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:46:01 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:46:02 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:46:02 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:46:02 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:46:02 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:46:02 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:46:03 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:46:03 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:46:03 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:46:03 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:46:03 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:46:03 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:46:03 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:46:03 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:46:03 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:46:03 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:46:04 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:46:04 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:46:04 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:46:04 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:46:04 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:46:05 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:46:05 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:46:05 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:46:05 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:46:05 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:46:05 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:46:05 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:46:06 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:46:06 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:46:06 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:46:06 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:46:06 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:46:06 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:46:06 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:46:06 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:46:07 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:46:07 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:46:07 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:46:07 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:46:07 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:46:09 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:46:09 INFO  Browser:39 - Closing the browser
+2020-01-19 16:50:22 INFO  Browser:20 - Setting the webdriver path for chromedriver
+2020-01-19 16:50:28 INFO  Browser:22 - Openning chrome Browser
+2020-01-19 16:50:32 INFO  Browser:24 - Maximizing window
+2020-01-19 16:50:36 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:50:36 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:50:36 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:50:36 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:50:36 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:50:37 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:50:37 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:50:37 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:50:37 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:50:37 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:50:38 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:50:39 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:50:39 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:50:39 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:50:39 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:50:39 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:50:39 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:50:39 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:50:40 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:50:40 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:50:40 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:50:40 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:50:40 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:50:40 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:50:40 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:50:40 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:50:41 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:50:41 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:50:41 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:50:41 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:50:41 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:50:42 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:50:43 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:50:43 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 16:50:43 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 16:50:43 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 16:50:43 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 16:50:44 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 16:50:45 INFO  Browser:39 - Closing the browser
+2020-01-19 17:04:49 INFO  Browser:20 - Setting the webdriver path for chromedriver
+2020-01-19 17:04:55 INFO  Browser:22 - Openning chrome Browser
+2020-01-19 17:04:59 INFO  Browser:24 - Maximizing window
+2020-01-19 17:05:03 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:05:03 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:05:03 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:05:03 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:05:03 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:05:04 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:05:04 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:05:04 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:05:04 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:05:04 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:05:05 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:05:05 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:05:05 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:05:05 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:05:05 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:05:05 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:05:05 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:05:05 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:05:05 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:05:05 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:05:06 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:05:06 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:05:06 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:05:06 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:05:06 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:05:07 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:05:07 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:05:07 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:05:07 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:05:07 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:05:07 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:05:07 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:05:07 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:05:07 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:05:07 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:05:09 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:05:09 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:05:09 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:05:09 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:05:09 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:05:09 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:05:11 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:05:11 INFO  Browser:39 - Closing the browser
+2020-01-19 17:09:34 INFO  Browser:20 - Setting the webdriver path for chromedriver
+2020-01-19 17:09:40 INFO  Browser:22 - Openning chrome Browser
+2020-01-19 17:09:44 INFO  Browser:24 - Maximizing window
+2020-01-19 17:09:48 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:09:48 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:09:48 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:09:48 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:09:48 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:09:49 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:09:49 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:09:49 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:09:49 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:09:49 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:09:52 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:09:52 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:09:52 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:09:52 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:09:52 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:09:53 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:09:53 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:09:53 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:09:53 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:09:53 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:09:54 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:09:54 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:09:54 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:09:54 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:09:54 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:09:55 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:09:55 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:09:55 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:09:55 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:09:55 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:09:56 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:09:56 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:09:56 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:09:56 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:09:56 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:09:58 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:09:58 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:09:58 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:09:58 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:09:58 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:09:59 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:09:59 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:09:59 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:09:59 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:09:59 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:10:01 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:10:01 INFO  LogInVerifyTest:22 - Sending email data
+2020-01-19 17:10:01 INFO  LogInVerifyTest:24 - Sending password
+2020-01-19 17:10:01 INFO  LogInVerifyTest:26 - Clicking login button
+2020-01-19 17:10:01 INFO  LogInVerifyTest:28 - verifying student login page
+2020-01-19 17:10:02 INFO  Browser:39 - Closing the browser
+2020-01-19 17:28:51 INFO  Browser:20 - Setting the webdriver path for chromedriver
+2020-01-19 17:28:58 INFO  Browser:22 - Openning chrome Browser
+2020-01-19 17:29:02 INFO  Browser:24 - Maximizing window
+2020-01-19 17:29:03 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:29:03 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:29:04 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:29:04 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:29:05 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:29:05 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:29:06 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:29:06 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:29:06 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:29:07 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:29:07 INFO  Browser:39 - Closing the browser
+2020-01-19 17:32:41 INFO  Browser:20 - Setting the webdriver path for chromedriver
+2020-01-19 17:32:47 INFO  Browser:22 - Openning chrome Browser
+2020-01-19 17:32:51 INFO  Browser:24 - Maximizing window
+2020-01-19 17:32:52 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:32:53 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:32:53 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:32:54 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:32:54 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:32:55 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:32:55 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:32:55 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:32:56 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:32:56 INFO  LogInVerifyTest:19 - Nvigating to OSA Consulting Tech Forum Login page
+2020-01-19 17:32:57 INFO  Browser:39 - Closing the browser
